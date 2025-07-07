@@ -113,4 +113,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | |
+| Background References | Used as inspiration for my hero section | https://forces.ca/en/ - Army(P1) / https://www.marines.mil - Marines(P2) / https://www.bundeswehr.de/en/organization/army/organization/branches/special-operations-forces - SOC(P3) /https://www.defense.gouv.fr/air - Airforce(P4) / https://www.navy.com - Navy(P5) | 

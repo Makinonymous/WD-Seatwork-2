@@ -1,0 +1,170 @@
+body{
+    background-color: rgba(30, 29, 29, 0.984);
+}
+
+a 
+{
+    cursor: pointer;
+}
+
+.HeaderMain
+{
+    width: 100%;
+    height: 8svh;
+    background-color: rgb(66, 64, 64);
+    display: flex;
+    justify-content: space-between;
+}
+.nav
+{
+  width: fit-content;
+  height: 12svh;
+}
+
+.nav ul
+{
+    margin-left: 120svh;
+}
+
+.nav ul li
+{
+    display: inline;
+    float: left;
+}
+
+.nav ul li a
+{
+    padding: 2svh;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 8svh;
+    color: azure;
+}
+
+.hero-section 
+{       
+      height: 92vh;
+      background-image: url("../../../../assets/img/NavyBG.jpg");
+      background-repeat: no-repeat;
+      background-size: cover; 
+      background-position: top;
+      color: white;
+      padding: 3svh 3svh; 
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+}
+
+.bottom-section 
+{
+    margin-top: auto;
+     padding: 10px; 
+     background-color: rgba(0, 0, 0, 0.355); 
+    display: flex;
+    justify-content: space-between;
+}
+
+.logomain
+{
+    display: flex;
+}
+
+.logomain-header h1
+{   
+    font-size: 55px;
+    font-weight: bold;
+    
+}
+
+.logomain-header h2
+{
+    margin-top: -2svh;
+    font-size: 28px;
+}
+
+.logo
+{
+    display: flex;
+    height: 15svh;
+}
+
+.subtext
+{
+    font-size: 55px;
+    padding-left: 10svh;
+    margin-top: 58svh;
+}
+
+.subtext .sb2
+{
+    margin-top: -20px;
+    font-size: 30px;
+}
+
+
+
+.content-section 
+{
+      background-color: #f4f4f4;
+      padding: 40px 20px;
+      text-align: center;
+}
+
+.Enlist 
+{
+     border: none;
+     color: white;
+     display: flex;
+     justify-content: flex-end;
+     margin-top: -12svh;
+     padding: 1svh 12svh;
+     text-align: center;
+     text-decoration: none;
+     font-size: 30px;
+     border-radius: 10px;
+     cursor: pointer;
+     transition: background-color 300ms;
+}
+    
+.container 
+{
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-start;
+      padding: 150px;
+      gap: 100px;
+}
+
+.section 
+{
+      background-color: #807a7a79;
+      border: 2px solid rgb(255, 238, 0);
+      border-radius: 8px;
+      padding: 20px;
+      flex: 1;
+      min-width: 100px;
+      box-sizing: border-box;
+      text-align: center;
+}
+
+.section h2 
+{
+      margin-top: 0;
+      color: #070760;
+}
+
+.section p 
+{
+      color: #ffffff;
+      line-height: 1.4;
+}
+    
+.Enlist:hover
+{
+    color: rgb(185, 213, 25);
+}
+
+.Enlist:active
+{
+    color: rgb(119, 137, 19);
+}
+
